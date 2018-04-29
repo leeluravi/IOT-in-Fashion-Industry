@@ -4,3 +4,10 @@ The attires and gadgets are not only technically sound but also are immensely st
 The main intent of choosing IoT in Fashion Industry is to possess a unique style and to take advantage of learning about micro controllers as part of the course and create crowd pleasing wearables. I want to use what I create as part of this project in my daily routine. We are what we visually represent is what I believe.
 
 Wearable scarf that has temperature sensor and changes colors based on the readings. I also intend to put together a watch with IoT touch.
+
+You will need the following libraries to run the code-
+https://github.com/adafruit/Adafruit_NeoPixel
+https://github.com/blynkkk/blynk-library
+https://github.com/adafruit/DHT-sensor-library
+https://github.com/adafruit/Adafruit_Sensor
+
