@@ -6,8 +6,8 @@ The main intent of choosing IoT in Fashion Industry is to possess a unique style
 Wearable scarf that has temperature sensor and changes colors based on the readings. I also intend to put together a watch with IoT touch.
 
 You will need the following libraries to run the code-
-https://github.com/adafruit/Adafruit_NeoPixel
-https://github.com/blynkkk/blynk-library
-https://github.com/adafruit/DHT-sensor-library
+https://github.com/adafruit/Adafruit_NeoPixel ,
+https://github.com/blynkkk/blynk-library ,
+https://github.com/adafruit/DHT-sensor-library ,
 https://github.com/adafruit/Adafruit_Sensor
 
